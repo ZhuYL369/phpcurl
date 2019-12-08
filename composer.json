@@ -19,5 +19,8 @@
         "psr-0": {
             "phpcurl": "src"
         }
+    },
+	"require-dev": {
+        "phpunit/phpunit": "~1.0"
     }
 }
