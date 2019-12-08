@@ -1,13 +1,4 @@
 {
-    "name": "zhuyl/phpcurl",
-    "description": "A phpcurl class encapsulates functions",
-    "require": {
-        "php": "^5.3",
-        "another-vendor/package": "1.0.*"
-    }
-}
-
-{
     "name": "zhuyl369/phpcurl",
     "type": "library",
     "description": "A phpcurl class encapsulates functions",
