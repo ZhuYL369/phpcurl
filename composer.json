@@ -3,6 +3,7 @@
     "type": "library",
     "description": "a simple curl class library",
     "keywords": ["curl"],
+	"license": "MIT",
     "authors": [
         {
             "name": "zhuyl369",
